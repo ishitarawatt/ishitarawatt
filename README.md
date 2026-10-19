@@ -68,7 +68,7 @@ Tailors a resume to a job posting **without fabricating experience**, surfaces h
 - **59 eval cases across 6 role families · 62 unit tests**
 - Browser demo that shows the Critic rejecting a fabricated bullet
 
-### 📊 [AgnaSight](https://github.com/ishitarawatt/AgnaSIght) · [live demo](https://agnasight.com)
+### 📊 [AgnaSight](https://github.com/ishitarawatt/AgnaSight) · [live demo](https://agnasight.com)
 `TypeScript` · `Vite` · `Tailwind` · `Vitest`
 
 AI-powered **deal intelligence platform** for sales teams. It analyses pipeline health, flags risky deals, recommends next steps and supports revenue forecasting.
@@ -93,7 +93,7 @@ Face recognition using **PCA (Eigenfaces) → LDA → MLP classifier**, with acc
 | [email-automation-system](https://github.com/ishitarawatt/email-automation-system) | Bulk personalised email sender with logging and error handling | Python, SMTP |
 | [web-scraper](https://github.com/ishitarawatt/web-scraper) | Product title/price/rating scraper with pagination and CSV export | Python, BeautifulSoup |
 | [Smart-Recommendation-System](https://github.com/ishitarawatt/Smart-Recommendation-System) | Recommendation system | Python |
-| [Health-Gaurdian-AI](https://github.com/ishitarawatt/Health-Gaurdian-AI) | Health-focused AI application | AI |
+| [Health-Guardian-AI](https://github.com/ishitarawatt/Health-Guardian-AI) | Health-focused AI application | AI |
 | [Neoflo Product Case](https://github.com/ishitarawatt/neoflo-product-intern-case) | Product intern case with working prototype | HTML |
 
 ---
